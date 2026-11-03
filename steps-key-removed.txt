@@ -1,0 +1,5 @@
+npm install express openai body-parser ejs express-session # inital run
+node server.js
+
+
+jule key:

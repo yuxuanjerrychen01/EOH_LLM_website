@@ -1,0 +1,11 @@
+{
+  "decorations": [
+    {
+      "id": 1,
+      "prompt": "__default__",
+      "html": "<div style=\"background: #222; height: 100svh; width: 100vw; margin: 0; overflow: hidden; position: relative; color: white; font-family: sans-serif;\"><h1 style=\"position: absolute; left: 50%; bottom: 20%; transform: translateX(-50%); margin: 0;\">Decorate this webpage :)</h1></div>",
+      "createdAt": "2026-04-08T00:00:00.000Z",
+      "isDefault": true
+    }
+  ]
+}
